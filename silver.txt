@@ -1,0 +1,3 @@
+<h1>Check out our silver medals </h1>
+   <P> Medallion : $40 </P>
+   <P> Ribbon : $20 </P>
